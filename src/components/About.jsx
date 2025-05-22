@@ -46,7 +46,7 @@ const About = ({ darkMode }) => {
               darkMode ? 'text-gray-300' : 'text-gray-700'
             }`}>
               Web Geliştirici & Frontend Odaklı Öğrenci
-              Merhaba! Ben [İsim Soyisim], üniversite 3. sınıf öğrencisi ve frontend geliştirme alanında kendini geliştiren bir yazılım meraklısıyım. HTML, CSS, React.js ve Tailwind CSS ile modern ve kullanıcı dostu arayüzler geliştiriyorum.
+              Merhaba! Ben Muhammed Hatib, üniversite 3. sınıf öğrencisi ve frontend geliştirme alanında kendini geliştiren bir yazılım meraklısıyım. HTML, CSS, React.js ve Tailwind CSS ile modern ve kullanıcı dostu arayüzler geliştiriyorum.
             </p>
             <p className={`mb-6 leading-relaxed ${
               darkMode ? 'text-gray-300' : 'text-gray-700'
