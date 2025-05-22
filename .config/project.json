@@ -1,0 +1,6 @@
+{
+  "name": "portfolio-website",
+  "type": "react-vite",
+  "version": "1.0.0",
+  "description": "Personal portfolio website built with React and Vite"
+} 
